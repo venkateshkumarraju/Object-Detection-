@@ -108,8 +108,7 @@ yolo task=detect mode=predict model='/path/to/best.pt' source='/path/to/input-vi
 The video will output with bounding boxes around detected objects.
 
 
-https://github.com/user-attachments/assets/2b0ea3bc-ede6-4cf6-924b-6426b1f4ea78
-
+https://github.com/venkateshkumarraju/Object-Detection-/blob/main/projet3-input-video_out%20(3).mp4
 
 
 ## License

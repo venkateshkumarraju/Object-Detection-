@@ -1,23 +1,7 @@
 # Object Detection Project Using YOLO 11
 
-## Table of Contents
-Introduction
 
-Dataset
 
-Installation
-
-Training
-
-Inference
-
-Evaluation Result
-
-Running on Video
-
-Results
-
-License
 ## Introduction
 This project demonstrates object detection using a YOLO model for detecting vehicle registration plates. The model is trained on a custom dataset of images containing license plates, and the bounding boxes are predicted using YOLO11 architecture.
 
